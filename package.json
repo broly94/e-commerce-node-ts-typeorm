@@ -1,7 +1,7 @@
 {
-  "name": "curso-node-ts",
+  "name": "e-commerce-node-ts",
   "version": "1.0.0",
-  "description": "Curso NodeJs y Typescript Codrr",
+  "description": "E-commerce NodeJs Express Typescript POO",
   "main": "index.js",
   "scripts": {
     "start": "tsc && node dist/server.js",
